@@ -1,13 +1,8 @@
-# Prose Builder
+# My Prose Project
 
-A simple prose builder for constructing text content from individual sentences.
+This is a fork of the prose-builder project.  
+It is used for practicing open source software development as part of the OSSD course.
 
-## Overview
-Prose Builder provides a flexible way to construct text content by registering and combining sentences.
+## License
 
-## Features
-- Build text content by registering individual sentences
-- Automatic line break handling between sentences
-- Simple interface-based design with `Prose` and `Sentence` interfaces
-
-
+This project is licensed under the MIT License. See the LICENSE file for details.
