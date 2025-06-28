@@ -27,16 +27,12 @@ SPDX-License-Identifier: MIT
 The project maintains the following source code repositories:
 
 * https://github.com/bs-jokri/prose-builder
+Project: my-prose
+Owner: Sadiyeh Rezaii
+License: MIT License
 
-## Third-Party Dependencies
+This project includes open-source software licensed under the MIT License.
+No cryptographic functionality is included in this project.
 
-See [DEPENDENCIES](DEPENDENCIES)
 
-## Cryptography
 
-Content may contain encryption software. The country in which you are currently
-may have restrictions on the import, possession, and use, and/or re-export to
-another country, of encryption software. BEFORE using any encryption software,
-please check the country's laws, regulations and policies concerning the import,
-possession, or use, and re-export of encryption software, to see if this is
-permitted.
