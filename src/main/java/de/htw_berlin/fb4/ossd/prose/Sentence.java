@@ -1,10 +1,9 @@
-/* SPDX-FileCopyrightText: 2025 Johannes Kristan
+/*
+ * Copyright (c) 2025 Sadiyeh Rezaii
  *
- * See the NOTICE file(s) distributed with this work for additional
- * information regarding copyright ownership.
- *
- *  SPDX-License-Identifier: MIT
+ * SPDX-License-Identifier: MIT
  */
+
 package de.htw_berlin.fb4.ossd.prose;
 
 public interface Sentence {
